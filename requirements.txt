@@ -1,0 +1,5 @@
+# SmartTask Manager requirements
+# This project uses only Python standard library modules
+
+json
+datetime
